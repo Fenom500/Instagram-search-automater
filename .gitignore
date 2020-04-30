@@ -1,0 +1,4 @@
+*.xml
+*.iml
+Hidden_info.py
+*.pyc
